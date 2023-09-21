@@ -1,5 +1,7 @@
 /nebula-build
-/nebula.exe
+*.exe
 lib/__pycache__
 *.pyc
 /build
+/NE_al-V0.0.1
+*.zip
