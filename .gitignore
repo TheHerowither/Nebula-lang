@@ -2,3 +2,4 @@
 /nebula.exe
 lib/__pycache__
 *.pyc
+/build

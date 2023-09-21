@@ -1,0 +1,2 @@
+VERSION = "NE_al-V0.0.1"
+BUILD_DATE = "Sep. 21st, 2023"
