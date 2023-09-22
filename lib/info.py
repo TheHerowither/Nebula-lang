@@ -1,2 +1,2 @@
-VERSION = "NE_al-V0.0.1"
-BUILD_DATE = "Sep. 21st, 2023"
+VERSION = "NE_al-V0.0.2"
+BUILD_DATE = "Sep. 22st, 2023"
