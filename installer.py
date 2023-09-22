@@ -38,7 +38,7 @@ def _download():
         zip.extractall(f"{VERSION}")
     #os.system(f'setx /M PATH "%path%;{os.path.join(os.getcwd(), VERSION)}"')
     log("Extraction complete")
-    log(subprocess.getoutput(f".\\setsys.bat {VERSION}"))
+    log(subprocess.getoutput(f".\\setsys.bat \\{VERSION}"))
     log(subprocess.getoutput(f"{VERSION}\\nebula --version"))
     pb.stop()
 def download():
